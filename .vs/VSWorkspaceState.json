@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\event",
+    "\\src\\app\\nav-bar"
+  ],
+  "SelectedNode": "\\src\\app\\nav-bar\\nav-bar.component.ts",
+  "PreviewInSolutionExplorer": false
+}
